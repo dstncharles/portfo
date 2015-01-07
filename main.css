@@ -3,8 +3,15 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+.header-pic {
+  height: 400px;
+  background-image: url("Images/landscapeheader.jpg");
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+}
 .header {
-  background-color: #8e8e8e;
+  background-image: #8e8e8e;
   text-align: center;
   margin: 0;
   font-family: 'Abril Fatface', cursive;
