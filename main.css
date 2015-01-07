@@ -1,0 +1,51 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.header {
+  background-color: #8e8e8e;
+  text-align: center;
+  margin: 0;
+  font-family: 'Abril Fatface', cursive;
+}
+body {
+  background-color: #b5b6cc;
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  font-family: 'Abril Fatface', cursive;
+  padding: 5px;
+}
+.me {
+  height: 250px;
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+}
+p {
+  width: 600px;
+  margin: 20px auto;
+  padding: 50px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.email {
+  text-align: center;
+}
+img {
+  width: 50px;
+}
+footer {
+  text-align: center;
+  background-color: #8e8e8e;
+}
+footer a {
+  text-decoration: none;
+}
+footer {
+  padding: 20px;
+}
